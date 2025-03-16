@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: 4py4v-v3pcz
+created: 2025-03-16T21:23:22+08:00
