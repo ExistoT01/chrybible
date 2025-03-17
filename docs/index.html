@@ -65,11 +65,23 @@
       },
     }
   </script>
+
+  <!-- solve cache problem -->
   <script>
     const version = new Date().toISOString().slice(0, 19).replace(/[-T]/g, '');
-    document.write('<script src="app.js?v=' + version + '"></script>');
-  document.write('<link rel="stylesheet" href="style.css?v=' + version + '" />');
+
+    // Dynamically create the <script> tag for app.js
+    const script = document.createElement('script');
+    script.src = 'app.js?v=' + version;
+    document.head.appendChild(script);
+
+    // Dynamically create the <link> tag for style.css
+    const link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'style.css?v=' + version;
+    document.head.appendChild(link);
   </script>
+
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
