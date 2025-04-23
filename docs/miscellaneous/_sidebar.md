@@ -1,0 +1,2 @@
+- 其他
+  - [财务相关](/miscellaneous/financial-affairs.md)
