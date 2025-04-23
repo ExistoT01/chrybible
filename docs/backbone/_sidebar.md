@@ -1,6 +1,7 @@
 - 干线
 
   - [告警百科](/backbone/alert-wiki.md)
+  - [网管-对应系统](/backbone/ware-on-each-device.md)
   - [光功率查询](/backbone/optical-power.md)
   - [割接流程](/backbone/cutover.md)
   - [一干工单](/backbone/inter-provincial-order.md)
