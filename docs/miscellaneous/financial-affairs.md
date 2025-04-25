@@ -82,9 +82,12 @@
 
 4. **打印粘贴单**
 
-   在【我的报销】下找到【我的已办】，找到你的申请单，点进去后，点击【打印粘贴单】
+   在【我的报销】下找到【我的已办】，找到你的申请单，点进去后，点击【打印粘贴单】，然后打印
 
    ![image-20250425194241322](https://cu-chrybible.oss-cn-beijing.aliyuncs.com/res/image-20250425194241322.png)
 
-5. 
+5. **打印发票，粘到粘贴单上，交给财务部相关人员（陈洁）**
+
+   ![image-20250425195158716](https://cu-chrybible.oss-cn-beijing.aliyuncs.com/res/image-20250425195158716.png)
+
 
